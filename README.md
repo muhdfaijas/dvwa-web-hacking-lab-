@@ -1,29 +1,23 @@
-# 🔐 DVWA Web Hacking Lab – My Pentesting Journey
+---
 
-Welcome to my personal hacking lab using **DVWA (Damn Vulnerable Web Application)**.  
-This repo documents my step-by-step write-ups for exploiting various web application vulnerabilities from **Low to High security levels**.
+## 🎯 Why This Repo?
 
-🧠 **Hands-on > Theory.**  
-No degree. Just pure focus, skills, and results.
+To build public proof of:
+- My **web application pentesting skills**
+- My consistency in learning & hacking
+- My readiness for entry-level **cybersecurity roles**
 
 ---
 
-## 📚 Medium Write-ups
+## 🙋‍♂️ About Me
 
-Each blog post includes:
-- Real payloads I used
-- Screenshots of success
-- Explanations of bypass techniques
+I'm **Muhammad Faijas**, a self-taught offensive security learner from Kerala.  
+I focus on **web hacking**, bug bounty, and tool-based exploitation (Burp Suite, sqlmap, ffuf, etc.).
 
-| Vulnerability        | Medium Blog Link                                       |
-|----------------------|--------------------------------------------------------|
-| Reflected XSS        | https://medium.com/@muhdfaijas647/dvwa-reflected-xss-exploiting-from-low-to-high-security-levels-e951bbe8d696
-| Stored XSS           | *(Coming soon)*                                        |
-| Command Injection    | *(Coming soon)*                                        |
-| File Upload          | *(Coming soon)*                                        |
-| CSRF                 | *(Coming soon)*                                        |
-| SQL Injection        | *(Coming soon)*                                        |
+📎 Connect with me:
+- 🔗 [LinkedIn](https://linkedin.com/in/your-link)
+- ✍️ [Medium](https://medium.com/@yourlink)
 
 ---
 
-
+📌 *More vulnerabilities, write-ups, and screenshots coming soon. This repo is alive.*
