@@ -3,9 +3,9 @@
 ## 🎯 Why This Repo?
 
 To build public proof of:
-- My **web application pentesting skills**
-- My consistency in learning & hacking
-- My readiness for entry-level **cybersecurity roles**
+-- My **web application pentesting skills**
+-- My consistency in learning & hacking
+-- My readiness for entry-level **cybersecurity roles**
 
 ---
 
