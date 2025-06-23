@@ -8,7 +8,7 @@ No degree. Just pure focus, skills, and results.
 
 ---
 
-## 📚 Medium Write-upsa
+## 📚 Medium Write-ups
 
 Each blog post includes:
 - Real payloads I used
