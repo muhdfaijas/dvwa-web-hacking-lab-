@@ -17,6 +17,8 @@ To build public proof of:
 I'm **Muhammad Faijas**, a self-taught offensive security learner from Kerala.  
 I focus on **web hacking**, bug bounty, and tool-based exploitation (Burp Suite, sqlmap, ffuf, etc.).
 
+---
+
 📎 Connect with me:
 - 🔗 [LinkedIn](https://linkedin.com/in/your-link)
 - ✍️ [Medium](https://medium.com/@yourlink)
